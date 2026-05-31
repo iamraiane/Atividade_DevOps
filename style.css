@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #0d6efd;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    width: 60%;
+    margin: auto;
+    font-size: 18px;
+}
+
+img {
+    width: 200px;
+    margin-top: 20px;
+}
